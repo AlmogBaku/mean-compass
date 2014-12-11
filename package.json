@@ -1,0 +1,22 @@
+{
+  "name": "mean-compass",
+  "version": "0.1.0",
+  "description": "This package adds supports for compass on mean",
+  "main": "meanGruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "menaio",
+    "mean",
+    "mean-pack"
+  ],
+  "author": {
+    "name": "Almog Baku"
+  },
+  "mean": "0.4.1",
+  "license": "MIT",
+  "dependencies": {
+    "grunt-mean-compass": "~0.1.2"
+  }
+}
