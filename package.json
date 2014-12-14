@@ -1,7 +1,7 @@
 {
   "name": "mean-compass",
   "version": "0.1.0",
-  "description": "This package adds supports for compass on mean",
+  "description": "Adds compass support on mean.io",
   "keywords": [
     "menaio",
     "mean",
