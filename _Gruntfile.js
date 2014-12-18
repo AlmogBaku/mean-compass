@@ -32,5 +32,5 @@ module.exports = function(grunt) {
   });
 
   //Inject the task to the task list
-  grunt.mean.push('meanCompass', -100);
+  grunt.hook.push('meanCompass', -100);
 };
